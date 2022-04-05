@@ -65,15 +65,16 @@ with open(PyBankcsv,newline="") as csvfile:
 
         increase_date = date[monthly_changes.index(greatest_increase_profits)]
         decrease_date = date[monthly_changes.index(greatest_decrease_profits)]
-        print("----------------------------------------------------------")
-        print("Financial Analysis")
-        print("----------------------------------------------------------")
-        print("Total Months: " + str(count))
-        print("Total Profits: " + "$" + str(total_profit))
-        print("Average Change: " + "$" + str(int(average_change_profits)))
-        print("Greatest Increase in Profits: " + str(increase_date) + " ($" + str(greatest_increase_profits) + ")")
-        print("Greatest Decrease in Profits: " + str(decrease_date) + " ($" + str(greatest_decrease_profits)+ ")")
-        print("----------------------------------------------------------")
+
+    print("----------------------------------------------------------")
+    print("Financial Analysis")
+    print("----------------------------------------------------------")
+    print("Total Months: " + str(count))
+    print("Total Profits: " + "$" + str(total_profit))
+    print("Average Change: " + "$" + str(int(average_change_profits)))
+    print("Greatest Increase in Profits: " + str(increase_date) + " ($" + str(greatest_increase_profits) + ")")
+    print("Greatest Decrease in Profits: " + str(decrease_date) + " ($" + str(greatest_decrease_profits)+ ")")
+    print("----------------------------------------------------------")
 
 with open("finacial_analysis.txt", "w") as text:
     text.write("----------------------------------------------------------\n")
