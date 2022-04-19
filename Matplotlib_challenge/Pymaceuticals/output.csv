@@ -1,0 +1,26 @@
+,Mouse ID,Timepoint,Drug Regimen,Sex,Age_months,Weight (g),Tumor Volume (mm3),Metastatic Sites
+0,a203,45,Infubinol,Female,20,23,67.97341878,2
+1,a251,45,Infubinol,Female,21,25,65.52574285,1
+2,a577,30,Infubinol,Female,6,25,57.03186187,2
+3,a685,45,Infubinol,Male,8,30,66.08306589,3
+4,c139,45,Infubinol,Male,11,28,72.2267309,2
+5,c326,5,Infubinol,Female,18,25,36.3213458,0
+6,c895,30,Infubinol,Female,7,29,60.96971133,2
+7,e476,45,Infubinol,Male,23,26,62.43540402,1
+8,f345,45,Infubinol,Male,23,26,60.91876652,1
+9,i386,40,Infubinol,Female,23,29,67.28962147,4
+10,k483,45,Infubinol,Female,20,30,66.19691151,3
+11,k804,35,Infubinol,Female,23,29,62.11727887,2
+12,m756,5,Infubinol,Male,19,30,47.01036401,1
+13,n671,30,Infubinol,Male,18,25,60.16518046,0
+14,o809,35,Infubinol,Male,3,25,55.62942846,1
+15,o813,5,Infubinol,Male,24,28,45.69933088,0
+16,q132,30,Infubinol,Female,1,30,54.65654872,4
+17,s121,25,Infubinol,Male,23,26,55.65068132,2
+18,v339,5,Infubinol,Male,20,26,46.25011212,0
+19,v719,20,Infubinol,Female,17,30,54.04860769,1
+20,v766,15,Infubinol,Male,16,27,51.54243058,1
+21,w193,20,Infubinol,Male,22,30,50.00513807,0
+22,w584,30,Infubinol,Male,3,29,58.26844248,1
+23,y163,45,Infubinol,Female,17,27,67.68556862,3
+24,z581,45,Infubinol,Female,24,25,62.75445141,3
