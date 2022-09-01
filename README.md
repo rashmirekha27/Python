@@ -37,4 +37,13 @@ Scores by School Spending
 Scores by School Size
 Scores by School Type
 
+
 # Matplotlib Challenge
+
+
+
+
+
+
+
+
