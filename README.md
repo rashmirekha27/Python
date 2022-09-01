@@ -1,2 +1,6 @@
 # Python_assignment_homework
-Hi, this is my python homework assignment!
+
+This repository consists of three assignments challenges.
+1. Python
+2. Pandas
+3. Matplotlib
