@@ -1,4 +1,4 @@
-# Python_assignment_homework
+# Python_assignment_challenge
 
 This repository consists of four assignments challenges.
 1. Python
@@ -23,3 +23,18 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 The winner of the election based on popular vote.
 
+# Pandas_assignment_challenge
+
+Created and manipulated Pandas DataFrames to analyze school and standardized test data.
+Created a high-level snapshot, in a DataFrame.
+The district's summary
+School summary
+Highest-Performing Schools (by % Overall Passing)
+Lowest-Performing Schools (by % Overall Passing)
+Math Scores by Grade
+Reading Scores by Grade
+Scores by School Spending
+Scores by School Size
+Scores by School Type
+
+# Matplotlib Challenge
