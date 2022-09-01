@@ -37,8 +37,12 @@ Scores by School Spending
 Scores by School Size
 Scores by School Type
 
-
 # Matplotlib Challenge
+In this   assignment, I applied  Matplotlib dataset of a a new pharmaceutical company. In this study, 249 mice identified with SCC tumor growth were treated with a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. Technical team will make report of the study and also asked for a top-level summary of the study results.
+we are preparing data to generate summary Statistics by creating Bar charts and Pie Charts, Calculating Quartiles, Find Outliers, and Creating a Box Plot.we are also creating aline plot and Scatter plot to calculate Corelation and regression
+
+
+
 
 
 
